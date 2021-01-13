@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/LinearPaddingBottom"
+    android:paddingLeft="@dimen/LinearPaddingLeft"
+    android:paddingRight="@dimen/LinearPaddingRight"
+    android:paddingTop="@dimen/LinearPaddingBottom"
+    android:orientation="vertical"
+    tools:context=".ActivityRumahSakit">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pilih_rumah_sakit"
+        android:textColor="@color/colorBlack"/>
+
+    <ListView
+        android:layout_marginTop="@dimen/LinearPaddingBottom"
+        android:id="@+id/list_rs"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

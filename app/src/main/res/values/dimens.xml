@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="LinearPaddingBottom">16dp</dimen>
+    <dimen name="LinearPaddingLeft">16dp</dimen>
+    <dimen name="LinearPaddingRight">16dp</dimen>
+</resources>

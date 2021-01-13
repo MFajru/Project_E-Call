@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Emergency Call</string>
+    <string name="name_rs">Nama Rumah Sakit</string>
+    <string name="no_rs">Nomor Telfon Rumah Sakit</string>
+    <string name="polisi">POLISI</string>
+    <string name="pemadam_kebakaran">PEMADAM KEBAKARAN</string>
+    <string name="nomor_lain">NOMOR LAIN</string>
+    <string name="rumah_sakit">RUMAH SAKIT</string>
+    <string name="e_call">E-Call</string>
+    <string name="pilih_polisi">Pilih Polisi:</string>
+    <string name="pilih_rumah_sakit">Pilih Rumah Sakit:</string>
+    <string name="logo_e_call">Logo E-Call</string>
+    <string name="pilih_nomor">Pilih Nomor:</string>
+
+    <string-array name="data_namarumahsakit">
+        <item>RSUD Abdoel Moeloek</item>
+        <item>RS DKT Bandar Lampung</item>
+        <item>RS Advent Bandar Lampung</item>
+        <item>RS Imanuel</item>
+        <item>RS Graha Husada</item>
+        <item>RS Bhayangkara Polda Lampung</item>
+        <item>RS Pertamina Bintang Amin</item>
+        <item>RS Bumi Waras</item>
+        <item>RS Urip Sumohardjo</item>
+        <item>RSUD A. Dadi Tjokrodipo</item>
+        <item>RSIA Mutiara Putri</item>
+        <item>RSIA Puri Betik Hati</item>
+        <item>RSIA Restu Bunda</item>
+        <item>RSIA Santa Anna</item>
+        <item>RS Jiwa Bandar Lampung</item>
+    </string-array>
+
+    <string-array name="data_nomorrumahsakit">
+        <item>0721 702455</item>
+        <item>0721 703574</item>
+        <item>0721 703459</item>
+        <item>0721 704900</item>
+        <item>0721 240000</item>
+        <item>0721 706402</item>
+        <item>0721 273601</item>
+        <item>0721 254589</item>
+        <item>0721 771313</item>
+        <item>0721 470177</item>
+        <item>0721 252519</item>
+        <item>0721 787799</item>
+        <item>0721 484185</item>
+        <item>0721 482424</item>
+        <item>0721 271170</item>
+    </string-array>
+
+    <string-array name="data_namapolisi">
+        <item>Polda Lampung</item>
+        <item>Poltabes Bandar Lampung</item>
+        <item>Polsekta Kedaton</item>
+        <item>Polsekta Sukarame</item>
+        <item>Polsekta Tanjung Karang Timur</item>
+        <item>Polsekta Tanjung karang Barat</item>
+        <item>Polsekta Telukbetung Utara</item>
+        <item>Polsekta Telukbetung Selatan</item>
+        <item>Polsekta Telukbetung Barat</item>
+        <item>Polsekta Panjang</item>
+        <item>Dirpolair</item>
+    </string-array>
+
+    <string-array name="data_nomorpolisi">
+        <item>0721 485841</item>
+        <item>0721 254110</item>
+        <item>0721 7691110</item>
+        <item>0721 7624250</item>
+        <item>0721 253783</item>
+        <item>0721 255015</item>
+        <item>0721 482083</item>
+        <item>0721 481283</item>
+        <item>0721 485383</item>
+        <item>0721 31383</item>
+        <item>0721 31310</item>
+    </string-array>
+
+    <string-array name="data_namalain">
+        <item>Palang Merah Indonesia (PMI) Bandar Lampung</item>
+        <item>Balai Besar Pengawas Obat dan Makanan (BBPOM) Bandar Lampung</item>
+        <item>Pembangkit Listrik Negara (PLN)</item>
+        <item>Telkom Indonesia</item>
+        <item>Bandara (PT Angkasa Pura II)</item>
+        <item>Perusahaan Daerah Air Minum (PDAM) Way Rilau</item>
+    </string-array>
+
+    <string-array name="data_nomorlain">
+        <item>0721 475019</item>
+        <item>0721 252212</item>
+        <item>0721 123</item>
+        <item>0721 147</item>
+        <item>0721 138</item>
+        <item>0721 483855</item>
+    </string-array>
+
+
+
+
+</resources>
