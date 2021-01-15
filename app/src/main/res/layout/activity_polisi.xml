@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/pilih_polisi"
-        android:textColor="@color/colorBlack"/>
+        android:textColor="@color/textPopupEditTextColor"/>
     <ListView
         android:id="@+id/list_polisi"
         android:layout_width="match_parent"

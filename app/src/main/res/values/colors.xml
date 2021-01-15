@@ -4,4 +4,6 @@
     <color name="colorPrimaryDark">#B22222</color>
     <color name="colorAccent">#CFCED0</color>
     <color name="colorBlack">#000000</color>
+    <color name="textPopupEditTextColor">#000000</color>
+
 </resources>

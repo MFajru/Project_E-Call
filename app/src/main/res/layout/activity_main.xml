@@ -8,14 +8,14 @@
     android:paddingLeft="@dimen/LinearPaddingLeft"
     android:paddingRight="@dimen/LinearPaddingRight"
     android:paddingEnd="@dimen/LinearPaddingRight"
-    android:paddingTop="50dp"
+    android:paddingTop="40dp"
     android:orientation="vertical"
     tools:context=".MainActivity">
-    
+
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="60dp">
+        android:layout_marginBottom="40dp">
         <ImageView
             android:layout_width="150dp"
             android:layout_height="150dp"
@@ -32,7 +32,7 @@
             android:layout_marginStart="65dp"
             android:text="@string/e_call"
             android:textSize="40sp"
-            android:textColor="@color/colorBlack"/>
+            android:textColor="@color/textPopupEditTextColor"/>
     </FrameLayout>
 
     <TableLayout
@@ -44,12 +44,14 @@
                 android:id="@+id/btn_polisi"
                 style="@style/ButtonGeneral"
                 android:drawableTop="@drawable/lambang_polri2"
-                android:text="@string/polisi" />
+                android:text="@string/polisi"
+                android:textColor="@color/textPopupEditTextColor"/>/>
             <Button
                 android:id="@+id/btn_rumahsakit"
                 style="@style/ButtonGeneral"
                 android:drawableTop="@drawable/lambang_rs2"
-                android:text="@string/rumah_sakit" />
+                android:text="@string/rumah_sakit"
+                android:textColor="@color/textPopupEditTextColor"/>/>
         </TableRow>
 
         <TableRow>
@@ -57,12 +59,14 @@
                 android:id="@+id/btn_damkar"
                 style="@style/ButtonGeneral"
                 android:drawableTop="@drawable/lambang_damkar2"
-                android:text="@string/pemadam_kebakaran" />
+                android:text="@string/pemadam_kebakaran"
+                android:textColor="@color/textPopupEditTextColor"/>/>
             <Button
                 android:id="@+id/btn_lain"
                 style="@style/ButtonGeneral"
                 android:drawableTop="@drawable/more2"
-                android:text="@string/nomor_lain" />
+                android:text="@string/nomor_lain"
+                android:textColor="@color/textPopupEditTextColor"/>/>
         </TableRow>
 
     </TableLayout>
